@@ -37,6 +37,6 @@ h1:nth-child(2):hover {
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
 }
 
-h1:nth-clid(1):hover ~ h1 {
+h1:nth-clild(1):hover ~ h1 {
   clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
 }
